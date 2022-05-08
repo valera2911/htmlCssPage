@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+
+body {
+  background-color: #f1f1f1;
+  color: #0f141e;
+
+  font-size: normal;
+  font-family: "Roboto", sans-serif;
+  /* font: normal 16px "Roboto", sans-serif */
+  /* Это вторая запись написания стиля */
+}
+
+.photo_hobby {
+  width: 300px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.35);
+}
+
+.card {
+  border-radius: 20px;
+  margin-bottom: 20px;
+  padding: 30px;
+  padding-bottom: 5px;
+}
+
+.bg-purple {
+  background: #dad2fd;
+}
+
+.bg-green {
+  background: #a9e2bd;
+}
+.container {
+  max-width: 1150px;
+  margin: auto;
+}
+.info {
+  margin-bottom: 0px;
+}
+
+.info p {
+  color: #86898f;
+  margin: 0;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: capitalize;
+  /* letter-spacing: 5px  Это расстрояние между буквами*/
+  /* word-spacing: 42px Это расстояние между словами*/
+}
+
+.table {
+  width: 100%;
+}
+.table td {
+  padding-bottom: 20px;
+}
+
+.text {
+  text-align: center;
+}
